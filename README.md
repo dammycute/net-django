@@ -1,0 +1,2 @@
+# net-django
+Learning Project
